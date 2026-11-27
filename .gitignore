@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+keys/
+release/
+boot-state.json
+sample-firmware.bin
